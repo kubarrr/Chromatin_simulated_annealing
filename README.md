@@ -3,7 +3,7 @@ Warsaw University of Technology project “Simulated annealing simulations of ch
 
 Technologies: Python, Chimera
 
-The project focused on using "Simulated Annealing" to simulate chromosomal structures based on microscopic data. Function g was developed to iteratively generate structures considering factors like genome fragment distances and chromatin topological constraints. Another function f was implemented to assess the similarity of the generated structures to the originals using Hi-C maps and Pearson correlation.
+The project focused on using "Simulated Annealing" to simulate chromosomal structures based on microscopic data. Function g was developed to iteratively generate structures considering factors like genome fragment distances and chromatin topological constraints. Another function f was implemented to assess the similarity of the generated structures to the originals using Hi-C maps and Pearson correlation. Another method Recurrence plot-based reconstruction (RPR) was also implemented.
 
 #
 
